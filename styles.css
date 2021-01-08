@@ -1,0 +1,32 @@
+div {
+    background-color: grey;
+    padding: 20px;
+    margin: 20px;
+    border: outset 10px black;
+}
+
+.nice {
+    order: 5;
+}
+
+.good {
+    border: outset 5px red;
+}
+
+.bad {
+    border: outset 5px green;
+}
+
+.life {
+    border: outset 5px blue;
+}
+
+.is {
+    border: outset 5px pink;
+    margin: 20px;
+    padding: 20px;
+}
+
+.not{
+
+}
